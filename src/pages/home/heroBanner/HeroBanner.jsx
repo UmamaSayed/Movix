@@ -30,7 +30,7 @@ const HeroBanner = () => {
       navigate(`/search/${query}`)
     }
 
-  }
+  };
 
   return (
     <div className='heroBanner'>
